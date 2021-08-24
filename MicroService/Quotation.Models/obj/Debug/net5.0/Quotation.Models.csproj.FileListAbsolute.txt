@@ -1,0 +1,12 @@
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Models\bin\Debug\net5.0\Quotation.Models.deps.json
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Models\bin\Debug\net5.0\Quotation.Models.dll
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Models\bin\Debug\net5.0\ref\Quotation.Models.dll
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Models\bin\Debug\net5.0\Quotation.Models.pdb
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Models\obj\Debug\net5.0\Quotation.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Models\obj\Debug\net5.0\Quotation.Models.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Models\obj\Debug\net5.0\Quotation.Models.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Models\obj\Debug\net5.0\Quotation.Models.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Models\obj\Debug\net5.0\Quotation.Models.dll
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Models\obj\Debug\net5.0\ref\Quotation.Models.dll
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Models\obj\Debug\net5.0\Quotation.Models.pdb
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Models\obj\Debug\net5.0\Quotation.Models.csproj.AssemblyReference.cache

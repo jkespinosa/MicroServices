@@ -1,0 +1,15 @@
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\bin\Debug\net5.0\Quotation.Persistence.DataBase.deps.json
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\bin\Debug\net5.0\Quotation.Persistence.DataBase.dll
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\bin\Debug\net5.0\ref\Quotation.Persistence.DataBase.dll
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\bin\Debug\net5.0\Quotation.Persistence.DataBase.pdb
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\bin\Debug\net5.0\Quotation.Models.dll
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\bin\Debug\net5.0\Quotation.Models.pdb
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\obj\Debug\net5.0\Quotation.Persistence.DataBase.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\obj\Debug\net5.0\Quotation.Persistence.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\obj\Debug\net5.0\Quotation.Persistence.DataBase.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\obj\Debug\net5.0\Quotation.Persistence.DataBase.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\obj\Debug\net5.0\Quotation.Persistence.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\obj\Debug\net5.0\Quotation.Persistence.DataBase.csproj.CopyComplete
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\obj\Debug\net5.0\Quotation.Persistence.DataBase.dll
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\obj\Debug\net5.0\ref\Quotation.Persistence.DataBase.dll
+C:\Users\TOSHIBA\source\repos\MicroService\Quotation.Persistence.DataBase\obj\Debug\net5.0\Quotation.Persistence.DataBase.pdb

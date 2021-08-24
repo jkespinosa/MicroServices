@@ -1,0 +1,12 @@
+C:\Users\TOSHIBA\source\repos\MicroService\Other.Models\bin\Debug\net5.0\Other.Models.deps.json
+C:\Users\TOSHIBA\source\repos\MicroService\Other.Models\bin\Debug\net5.0\Other.Models.dll
+C:\Users\TOSHIBA\source\repos\MicroService\Other.Models\bin\Debug\net5.0\ref\Other.Models.dll
+C:\Users\TOSHIBA\source\repos\MicroService\Other.Models\bin\Debug\net5.0\Other.Models.pdb
+C:\Users\TOSHIBA\source\repos\MicroService\Other.Models\obj\Debug\net5.0\Other.Models.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\MicroService\Other.Models\obj\Debug\net5.0\Other.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\MicroService\Other.Models\obj\Debug\net5.0\Other.Models.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\MicroService\Other.Models\obj\Debug\net5.0\Other.Models.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\MicroService\Other.Models\obj\Debug\net5.0\Other.Models.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\MicroService\Other.Models\obj\Debug\net5.0\Other.Models.dll
+C:\Users\TOSHIBA\source\repos\MicroService\Other.Models\obj\Debug\net5.0\ref\Other.Models.dll
+C:\Users\TOSHIBA\source\repos\MicroService\Other.Models\obj\Debug\net5.0\Other.Models.pdb
